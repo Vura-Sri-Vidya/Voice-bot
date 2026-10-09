@@ -1,0 +1,251 @@
+# Loan Against Property (LAP) Voice Assistant — Sample Conversation
+
+## Conversation
+
+**Agent:**
+Hello! Am I speaking with the account holder? I'm calling about a special pre-approved Loan Against Property offer for our valued customers.
+
+**User:**
+Yeah, speaking.
+
+**Agent:**
+Thanks for confirming. As a valued customer, you're eligible for a special pre-approved Loan Against Property offer of up to ₹75 Lakhs. I just need to ask 7 quick preliminary questions to check your qualification.
+
+First, do you have an existing loan on this property, or are you looking to reduce an existing EMI?
+
+**User:**
+No. I don't have any existing EMI.
+
+**Agent:**
+Got it, no existing loan. Now, what type of property would you be pledging: residential, commercial, industrial, or agricultural?
+
+**User:**
+It is agriculture.
+
+**Agent:**
+I apologize, but our current Loan Against Property offer is only applicable to residential, commercial, or industrial properties. Agricultural properties are not eligible at this time.
+
+---
+
+## Result
+
+**Status:** ❌ Disqualified
+
+**Reason:** Agricultural property is not eligible for the current Loan Against Property offer.
+
+**Call Outcome:** The qualification process is terminated immediately after identifying the disqualifying condition.
+
+
+
+
+# Loan Against Property (LAP) Voice Assistant — Sample Conversation
+
+## Conversation
+
+**User — 0:03**
+Hello?
+
+**User — 0:03**
+Hello?
+
+**Agent — 0:03**
+Hello! This is a virtual assistant.
+
+**Agent — 0:07**
+Hello, I'm—
+
+**User — 0:08**
+Hello?
+
+**Agent — 0:08**
+a virtual assistant calling on behalf of our company about a special loan offer for valued customers. May I confirm who I'm speaking with?
+
+**User — 0:17**
+Yeah. You are speaking with Rahul.
+
+**Agent — 0:21**
+Thanks, Rahul. As a valued customer, you're eligible for a special pre-approved Loan Against Property offer of up to ₹75 Lakhs. I just need to ask 7 quick preliminary questions to check your qualification. Do you have an existing loan on this property, or are you looking to reduce an existing EMI?
+
+**User — 0:43**
+No. I don't have—
+
+**Agent — 0:42**
+reduce an existing EMI?
+
+**User — 0:44**
+any existing.
+
+**Agent — 0:48**
+Got it, no existing loan. What type of property would you be offering as security: residential, commercial, industrial, or agricultural?
+
+**User — 0:57**
+Is residential.
+
+**Agent — 1:00**
+Okay, residential works. Is the property solely owned by you, or jointly owned?
+
+**User — 1:06**
+It is owned by me.
+
+**Agent — 1:09**
+Sole ownership, noted. Do you have the original property documents available for verification?
+
+**User — 1:15**
+Yeah.
+
+**Agent — 1:17**
+Great, originals are available. How much loan amount are you looking for?
+
+**User — 1:22**
+Sixty lakhs.
+
+**Agent — 1:24**
+Sixty lakhs is within the limit. Are you salaried or self-employed, and is your—
+
+**User — 1:30**
+Salary.
+
+**Agent — 1:29**
+income received—
+
+**Agent — 1:32**
+Salaried, noted. Is your salary credited to your bank account, or received in cash?
+
+**User — 1:39**
+Receiving the cash.
+
+**Agent — 1:42**
+Sorry, I didn't catch your answer there. Is your salary credited to your bank account, or do you—
+
+**User — 1:49**
+It will be credited—
+
+**Agent — 1:49**
+receive it in cash?
+
+**User — 1:51**
+to bank account.
+
+**Agent — 1:53**
+Okay, salary credited to your bank account works. What's the estimated market value of your property?
+
+**User — 2:00**
+The box seventy lakhs.
+
+**Agent — 2:04**
+Seventy lakhs, noted. Last question: how many years would you like for the repayment tenure?
+
+**User — 2:11**
+Three years.
+
+**Agent — 2:13**
+Three years is within our range. Great news! You meet all preliminary eligibility criteria for our LAP offer. I'm forwarding your profile to our Senior Loan Expert, who will contact you shortly to finalize interest—
+
+---
+
+## Qualification Summary
+
+| Eligibility Criteria  | Customer Response | Status             |
+| --------------------- | ----------------- | ------------------ |
+| Customer Verification | Rahul             | ✅ Verified         |
+| Existing Loan         | No                | ✅ Eligible         |
+| Property Type         | Residential       | ✅ Eligible         |
+| Ownership             | Sole              | ✅ Eligible         |
+| Original Documents    | Available         | ✅ Eligible         |
+| Loan Amount           | ₹60 Lakhs         | ✅ Within ₹75 Lakhs |
+| Occupation            | Salaried          | ✅ Eligible         |
+| Income Mode           | Bank Account      | ✅ Eligible         |
+| Property Market Value | ₹70 Lakhs         | ✅ Recorded         |
+| Repayment Tenure      | 3 Years           | ✅ Eligible         |
+
+---
+
+## Final Outcome
+
+**Status:** ✅ Qualified
+
+**Loan Amount Requested:** ₹60 Lakhs
+
+**Property Type:** Residential
+
+**Ownership:** Sole
+
+**Property Value:** ₹70 Lakhs
+
+**Repayment Tenure:** 3 Years
+
+**Next Step:** Profile forwarded to the **Senior Loan Expert** for final processing, interest rates, and customized terms.
+
+> **Note:** This is a preliminary qualification only. Final loan approval and terms are determined by the appropriate loan expert.
+
+
+
+
+# Loan Against Property (LAP) Voice Assistant — Sample Conversation
+
+## Conversation
+
+**User — 0:00**
+Hello?
+
+**Agent — 0:06**
+Hello! This is a virtual assistant calling on behalf of your loan provider. Am I speaking with the account holder?
+
+**User — 0:15**
+Yeah. Speaking.
+
+**Agent — 0:18**
+Thanks for confirming. As a valued customer, you're eligible for a special pre-approved Loan Against Property offer of up to 75 Lakh rupees. I just need to ask 7 quick preliminary questions to check your qualification. Do you have an existing loan on this property, or are you looking to reduce an existing EMI?
+
+**User — 0:37**
+Yeah. Already—
+
+**Agent — 0:42**
+The first part looks like a date list rather than your reply. Your "Yeah. Already" sounds like you do have an existing loan. Since you do, your request will be handled directly by our Loan Transfer Specialist, who will contact you.
+
+---
+
+## Qualification Summary
+
+| Eligibility Check     | Customer Response       | Result      |
+| --------------------- | ----------------------- | ----------- |
+| Customer Verification | Confirmed               | ✅ Verified  |
+| Existing Loan / EMI   | Existing loan indicated | 🔄 Transfer |
+| Property Type         | Not asked               | —           |
+| Ownership             | Not asked               | —           |
+| Original Documents    | Not asked               | —           |
+| Loan Amount           | Not asked               | —           |
+| Occupation            | Not asked               | —           |
+| Income Mode           | Not asked               | —           |
+| Property Value        | Not asked               | —           |
+| Repayment Tenure      | Not asked               | —           |
+
+---
+
+## Final Outcome
+
+**Status:** 🔄 Transferred
+
+**Reason:** Customer indicated that they already have an existing loan.
+
+**Next Step:** The request is routed to the **Loan Transfer Specialist**, who will contact the customer directly.
+
+### Important Flow Rule
+
+Once an existing loan or EMI-reduction requirement is detected, the assistant **does not continue with the remaining eligibility questions**.
+
+```text
+Customer Verification
+        ↓
+LAP Offer Presented
+        ↓
+Existing Loan Check
+        ↓
+Existing Loan = YES
+        ↓
+Loan Transfer Specialist
+        ↓
+      END CALL
+```
+
+> **Note:** This conversation demonstrates the existing-loan transfer scenario in the LAP qualification workflow.
